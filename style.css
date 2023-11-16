@@ -31,13 +31,13 @@ button:active {
     scale: 90%;
 }
 
-#sum-display {
+#result-screen {
     font-size: 30px;
     text-align: center;
     color: grey;
 }
 
-#display {
+#current-screen {
     font-size: 60px;
     text-align: center;
 }
