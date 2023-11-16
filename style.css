@@ -5,6 +5,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1 {
+    text-align: center;
+}
+
 #buttons {
     padding: 20px;
 }
@@ -25,6 +29,12 @@ button:hover {
 
 button:active {
     scale: 90%;
+}
+
+#sum-display {
+    font-size: 30px;
+    text-align: center;
+    color: grey;
 }
 
 #display {
